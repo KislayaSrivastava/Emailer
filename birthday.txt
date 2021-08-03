@@ -1,0 +1,3 @@
+#birthday.txt 
+<name>:ddmm:gender:<email id of name>:<email id of manager>
+Test:2312:IST:her:mytestemail@gmail.com:mymanageremail@gmail.com
